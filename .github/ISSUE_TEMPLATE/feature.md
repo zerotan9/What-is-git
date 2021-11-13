@@ -8,9 +8,9 @@ assignees: ''
 ---
 
 **Part**
-- [] FE
-- [] BE
-- [] Data Preprocessing
+- [ ] FE
+- [ ] BE
+- [ ] Data Preprocessing
 
 **기능 상세 설명**
 기능에서 어떤 부분이 구현되어야 하는지 명확하고 간결하게 설명해주세요
