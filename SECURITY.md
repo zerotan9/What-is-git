@@ -1,9 +1,8 @@
-# Security Policy
+# 보안 정책
 
-## Supported Versions
+## 지원되는 버전
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+보안 취약점에 대한 패치를 출시합니다. 패치를 받을 수 있는 버전은 0.0.0 입니다.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -12,10 +11,7 @@ currently being supported with security updates.
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Reporting a Vulnerability
+## 취약점 보고
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+(의심되는) 보안 취약점을 security@ory.sh로 보고하십시오 . 48시간 이내에 답변을 받으실 수 있습니다. 
+문제가 확인되면 복잡성에 따라 가능한 한 빨리 패치를 출시할 예정이지만 통상적으로 며칠 내에 출시될 예정입니다.
