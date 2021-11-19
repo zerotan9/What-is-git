@@ -21,7 +21,7 @@
 ---
 ___   
 
-[참조 링크] (http://www.takis.co.kr)
+[참조 링크](http://www.takis.co.kr)
 
 이미지 추가 (이미지 드래그)
 
